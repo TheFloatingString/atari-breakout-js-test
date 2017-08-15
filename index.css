@@ -1,0 +1,14 @@
+#myCanvas {
+    background-color: #2A4494;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+h1 {
+    color: #44CFCB;
+    text-align: center;
+}
